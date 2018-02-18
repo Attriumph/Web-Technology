@@ -134,3 +134,22 @@ There is nothing special about JavaScript arrays and the properties that cause t
 
 ## 11.JavaScript能不能overload方法呢？
     不能。
+    
+## 12.Object:
+### Object Constructors
+ pretty like Class in java
+ 
+### Predefined JavaScript Objects
+* Array object, we have already seen 
+* Boolean object, a wrapper around the primitive Boolean data type, 
+var booleanObject = new Boolean(value);
+Any object whose value is not (undefined, null, 0, Nan or the empty string, including a Boolean object whose value is false), evaluates to true
+*Date Object, like Java it stores dates as the number of milliseconds since Jan. 1, 1970, 00:00:00
+var Xmas95 = new Date(“December 25, 1995”);
+Xmas95.getMonth() returns 12, Xmas95.getFullYear() returns 1995
+* Function object
+* Var functionObjectName = new Function([arg1, ..., argn], functionbody);
+* Math object includes properties and methods for mathematical constants, e.g. sin(), cos(), ceil(), floor()
+* RegExp object  (discussed later)
+* String object  (discussed later)
+
