@@ -95,6 +95,27 @@
 * push() add a new element at the end
 * reverse(), reverses the order of elements
 
+4)JavaScript does NOT provide a way to declare the size (dimension) of an array.
+
+In javascript even if you declare the size of the array, you still access it beyond the size.
+For Eg. 
+```javascript
+var arr = new Array(10);
+//but you can still access arr[20] and it doesn't throw any exception.
+//So that's the reason why there is no way to define the size of the array.
+
+Specifically:
+var person = [];
+person["firstName"] = "John";
+person["lastName"] = "Doe";
+person["age"] = 46;
+var x = person.length;         // person.length will return 0
+var y = person[0];             // person[0] will return undefined
+
+and 
+var points = new Array();         // Bad
+var points = [];                  // Good 
+```
 ## 9.The difference between null and undefined
 1)null:在 JavaScript 中 null 表示 "什么都没有"。
   null是一个只有一个值的特殊类型。表示一个空对象引用。
