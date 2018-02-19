@@ -10,7 +10,7 @@ ENCTYPE=ContentType (content type to submit form as)
 Defaults to application/x-www-urlencoded which returns name/value pairs, separated by &, spaces replaced by + and reserved characters (like #) replaced by %HH, H a hex digit
 ACCEPT-CHARSET=Charsets (supported character encodings)
 TARGET=FrameTarget (frame to render form result in, in HTML4) 
-(a browsing context name or keyword, in HTML5, such as _self, _blank, _parent, _top, iframename)
+(a browsing context name or keyword, in HTML5, such as`` _self, _blank, _parent, _top, iframename``)
 ONSUBMIT=Script (form was submitted)
 ONRESET=Script (form was reset)
 
