@@ -30,7 +30,7 @@ Syntax
 * DISABLED	unavailable in this context
 * READONLY	for text and passwords
 
-## <TEXTAREA> Tag
+## "<TEXTAREA>" Tag
 > Attribute：
 * NAME=name specifies a name for the data entry object to be sent to the server-side script
 * COLS=num Width (in characters) of a text-entry region on the screen If user types more than COLS characters, field is scrolled
