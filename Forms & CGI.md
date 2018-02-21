@@ -36,7 +36,7 @@ Syntax
 * COLS=num Width (in characters) of a text-entry region on the screen If user types more than COLS characters, field is scrolled
 * ROWS=num same as the above
 
-## <SELECT> Tag
+## "<SELECT>" Tag
 >Attributes:
 * NAME=name
 * SIZE=num Number of lines of the list to display at a time
