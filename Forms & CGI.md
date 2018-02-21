@@ -1,18 +1,20 @@
 
 # Form Tag
-Syntax   <FORM>...</FORM>
+Syntax   
+              <FORM>...</FORM>
 ## Attribute Specifications
-ACTION=URI (form handler)
-METHOD=[ get | post ] (HTTP method for submitting form)
-GET	is the default; form contents are appended to the URL
-POST	causes the fill-out form contents to be sent in a data body as standard input
-ENCTYPE=ContentType (content type to submit form as)
-Defaults to application/x-www-urlencoded which returns name/value pairs, separated by &, spaces replaced by + and reserved characters (like #) replaced by %HH, H a hex digit
-ACCEPT-CHARSET=Charsets (supported character encodings)
-TARGET=FrameTarget (frame to render form result in, in HTML4) 
+
+* ACTION=URI (form handler)
+* METHOD=[ get | post ] (HTTP method for submitting form)
+   GET	is the default; form contents are appended to the URL
+   POST	causes the fill-out form contents to be sent in a data body as standard input
+* ENCTYPE=ContentType (content type to submit form as)
+   Defaults to application/x-www-urlencoded which returns name/value pairs, separated by &, spaces replaced by + and reserved characters (like #) replaced by %HH, H a hex digit
+* ACCEPT-CHARSET=Charsets (supported character encodings)
+* TARGET=FrameTarget (frame to render form result in, in HTML4) 
 (a browsing context name or keyword, in HTML5, such as`` _self, _blank, _parent, _top, iframename``)
-ONSUBMIT=Script (form was submitted)
-ONRESET=Script (form was reset)
+* ONSUBMIT=Script (form was submitted)
+* ONRESET=Script (form was reset)
 
 
 ## Input Tag
