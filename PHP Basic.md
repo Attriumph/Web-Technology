@@ -1,4 +1,4 @@
-##PHP 1.What is PHP?
+## PHP 1.What is PHP?
 * PHP == ‘PHP: Hypertext Preprocessor’ (recursive backronym)
 * Open-source, server-side scripting language
 * Used to generate dynamic web-pages（today generate data）
