@@ -1,4 +1,5 @@
-
+# Summary of CSS lecture from CSCI 571 
+(refer:http://cs-server.usc.edu:45678/lectures.html)
 # Form Tag
 Syntax   
               <FORM>...</FORM>
