@@ -1,4 +1,6 @@
 # Dom
+# Summary of CSS lecture from CSCI 571 
+(refer:http://cs-server.usc.edu:45678/lectures.html)
 ## 1.What is DOM？
 
 The DOM represents an XML file as a tree
