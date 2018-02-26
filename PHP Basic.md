@@ -1,3 +1,5 @@
+# Summary of CSS lecture from CSCI 571 
+(refer:http://cs-server.usc.edu:45678/lectures.html)
 ## PHP 1.What is PHP?
 * PHP == ‘PHP: Hypertext Preprocessor’ (recursive backronym)
 * Open-source, server-side scripting language
