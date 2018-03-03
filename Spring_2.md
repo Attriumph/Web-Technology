@@ -1,11 +1,11 @@
 # Use comment to configure spring
 
 1)Import package：4+2+spring-aop
-2）为主配置文件引入新的命名空间（约束）
- 3) 开启，使用注解代理配置文件
+2)为主配置文件引入新的命名空间（约束）
+3)开启，使用注解代理配置文件
 
- <?xml version="1.0" encoding="UTF-8"?>
-<beans xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"; xmlns="http://www.springframework.org/schema/beans"; xmlns:context="http://www.springframework.org/schema/context"; xsi:schemaLocation="http://www.springframework.org/schema/beanshttp://www.springframework.org/schema/beans/spring-beans-4.2.xsdhttp://www.springframework.org/schema/contexthttp://www.springframework.org/schema/context/spring-context-4.2.xsd ">
+      <?xml version="1.0" encoding="UTF-8"?>
+     <beans xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"; xmlns="http://www.springframework.org/schema/beans"; xmlns:context="http://www.springframework.org/schema/context"; xsi:schemaLocation="http://www.springframework.org/schema/beanshttp://www.springframework.org/schema/beans/spring-beans-4.2.xsdhttp://www.springframework.org/schema/contexthttp://www.springframework.org/schema/context/spring-context-4.2.xsd ">
 <--!指定扫描bean包下的所有类中的注解。
       注意扫描会扫描指定包下的所有子孙包-->
 <context:component-scan base-package="bean"></context:component-scan>
