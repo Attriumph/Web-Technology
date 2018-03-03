@@ -1,3 +1,8 @@
+# Summary of CSS lecture from CSCI 571 
+(refer:http://cs-server.usc.edu:45678/lectures.html)
+
+## Precedence of Style Settings
+
 Enables browser requests
  Mainly provides
 –	Support for retrieving hypertext documents
