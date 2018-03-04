@@ -176,6 +176,7 @@ match and search are methods of String
 match executes a search for a match in a string and returns an array or null
 search tests for a match in a string and returns the index or -1
 Uses exec method to locate a string
+```javascript
 <script language=javascript1.2>
 myRe = /d(b+)d/g;		//a d,1 or more b, and a d
 myArray = myRe.exec("cdbbdbsbz");
@@ -189,3 +190,4 @@ An alternate approach
 myRe = new RegExp ("d(b+)d", g:);
 myArray = myRe.exec("cdbbdbsbz");
 </script>
+```
