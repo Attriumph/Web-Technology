@@ -132,7 +132,10 @@ foreach($age as $key=>$value)
 // }
 // 每进行一次循环，当前数组元素的值就会被赋值给 $value 变量（数组指针会逐一地移动），在进行下一次循环时，您将看到数组中的下一个值
 
-HP 超级全局变量列表:
+```
+
+
+## HP 超级全局变量列表:
 
 $GLOBALS
 $_SERVER
@@ -162,7 +165,7 @@ E.g., process.php?name=trevor&number=345
 PHP中的$_ENV是一个包含服务器端环境变量的数组。它是PHP中一个超级全局变量，我们可以在PHP 程序的任何地方直接访问它。
 $_ENV只是被动的接受服务器端的环境变量并把它们转换为数组元素，
 
-PHP 魔术变量
+## PHP 魔术变量
 _LINE_ , _METHOD_, _CLASS_, _DIR_
 
 
