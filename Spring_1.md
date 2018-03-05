@@ -17,16 +17,14 @@ ApplicationContext接口，每次容器启动时就会创建容器中配置的�
 两个实现类：从类路径下加载 配置文件：ClassPathXmlApplicationContext
                        从绝对路径下加载文件：FileSystemXmlApplicationContext
 
-# Spring的搭建：
+## 3.Spring的搭建：
 
 1）导包：4+2
 2）创建要放入容器的对象
 3）书写配置文件，导入约束：位置任意(建议放到src下) ，配置文件名任意(建议applicationContext.xml)
 4）代码测试
 
-
-
-# Spring的配置：
+## 4.Spring的配置：
 1.bean元素: 使用该元素描述需要spring容器管理的对象
  （1） 两个属性： class属性和name属性
  （2）scope属性： singleton（在spring容器中只存在一个对象）和prototype（获得对象的时候就会创建新对象）
