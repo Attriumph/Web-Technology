@@ -1,4 +1,5 @@
-# spring 的简介
+# Spring
+## 1.spring 的简介
      Spring 其实就是项目中所有对象的容器！装什么对象，就有什么功能（所以是一个一站式开源框架）
 两个重要思想：IOC 和AOP
 
@@ -7,9 +8,9 @@
         schema：约束
    ps：框架和对象交流---是通过配置文件
 
-# spring的两个概念：
-## 控制反转（Inversion of Control，英文缩写为IoC）把创建对象的权利交给框架,是包括依赖关系也是自己注入,对象由spring创建以及注入
-## DI： dependency injection 依赖注入， 实现IOC 需要DI 支持
+## 2.spring的两个概念：
+ * 控制反转（Inversion of Control，英文缩写为IoC）把创建对象的权利交给框架,是包括依赖关系也是自己注入,对象由spring创建以及注入
+ * DI： dependency injection 依赖注入， 实现IOC 需要DI 支持
 
 
 ApplicationContext接口，每次容器启动时就会创建容器中配置的所有对象
