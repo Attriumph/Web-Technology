@@ -2,7 +2,7 @@
 (refer:http://cs-server.usc.edu:45678/lectures.html)
 # Form Tag
 Syntax   
-              <FORM>...</FORM>
+        ```html<FORM>...</FORM>```
 ## Attribute Specifications
 
 * ACTION=URI (form handler)
