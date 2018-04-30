@@ -1,0 +1,31 @@
+HTML5
+## Video container ：
+–	MPEG4 compressed video (mp4 or m4v)
+–	QuickTime (.mov)
+–	Flash Video (.flv) from Adobe
+–	Ogg (.ogv) open source
+–	WebM (VP8/VP9 video + Vorbis audio), from Google
+- Audio Video Interleave (.avi), invented
+
+## Popular video codecs are:
+–	MPEG-4 (also known as MPEG4 Part 2)
+–	H.264 (also known as MPEG4 Part 10), a.k.a. Advanced Video Coding (AVC)
+–	H.265, successor to H.264 (doubles video compression and supports 8K UHD), a.k.a. High Efficiency Video Coding (HEVC)  or MPEG-H part 2, used in FaceTime
+–	Theora
+–	VP8 open source codec, formerly from On2, now Google WebM
+–	VP9, successor to VP8 (doubles video compression)
+–	Sorenson Spark (H.263 variant) from Adobe
+
+
+## three audio codecs you need to know about: 
+–	MP3
+–	Advanced Audio Encoding, (AAC and AAC+)
+•	It is the default format for Apple’s iTunes
+•	It supports up to 48 channels of sound 
+–	Vorbis Usually comes in an Ogg container
+
+
+•	The preload attribute tells the browser that you would like it to start downloading the video file as soon as the page loads
+•	The autoplay attribute tells the browser that you would like it to start downloading the video file as soon as the page loads, and you would like it to start playing the video automatically as soon as possible. 
+•	The sessionStorage object is equal to the localStorage object, except that it stores the data for only one session. The data is deleted when the user closes the specific browser tab.
+•	
