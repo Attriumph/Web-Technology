@@ -13,7 +13,7 @@ Firebase categorizes its services into two categories:
 
 ###  Develop group of services
 The following products are offered by Firebase under their Develop group of services:
-*	Authentication
+*	Authentication:Allows developers to build secure authentication systems without having to bother with building the security features.
 *	Realtime Database： a cloud hosted NoSQL database；JSON；offline
 *	Hosting：Developers can use this product to host all the static content of their website；SSL
 *	Cloud Storage：Backed by Google Cloud Storage infrastructure.
@@ -22,9 +22,9 @@ The following products are offered by Firebase under their Develop group of serv
 
 ###  Stability, Analytics and Grow groups of services
 Several products are offered by Firebase under the Stability, Analytics and Grow groups of services, including:
-•	Cloud Messaging： provides a reliable and battery-efficient connection between the server and devices that allows to deliver and receive messages and notifications on iOS, Android, and the web
-•	Cloud Functions
-•	DebugView
-•	Notifications
-•	Analytics#  ：Helps app developers get insights about their users and how they use their apps.
-•	Remote Config#：Allows developers to remotely change the configuration of the app to make changes to apps without pushing an update；Allows A/B testing
+*	Cloud Messaging： provides a reliable and battery-efficient connection between the server and devices that allows to deliver and receive                     messages and notifications on iOS, Android, and the web
+*	Cloud Functions
+*	DebugView
+*	Notifications
+*	Analytics#  ：Helps app developers get insights about their users and how they use their apps.
+*	Remote Config#：Allows developers to remotely change the configuration of the app to make changes to apps without pushing an update                         Allows A/B testing
