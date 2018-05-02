@@ -3,6 +3,10 @@
 ## What is it?
 React is a view layer library, not a framework like Backbone, Angular etc.
 
+## Why React developed?
+* Complexity of two-way data binding
+* A lot of data on a page changing over time
+
 ## Why use it?
 * Easy to understand what a component will render
 * Easy to mix HTML and JS
