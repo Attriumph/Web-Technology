@@ -1,4 +1,4 @@
-Web Secutity
+# Web Secutity
 ## Some common ways that websites get infected are (ref [6])
 * Cross-site scripting attacks (XSS) 
 
