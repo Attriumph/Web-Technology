@@ -1,4 +1,5 @@
-## new 22 Web Performance Strategies 
+## New 35 Strategies for improving Web Performance 
+
 •	Minimize HTTP Requests
 •	Use a Content Delivery Network
 •	Add an Expires or a Cache-Control Header
