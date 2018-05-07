@@ -1,15 +1,15 @@
 ## New 35 Strategies for improving Web Performance 
 
-•	Minimize HTTP Requests
-•	Use a Content Delivery Network
-•	Add an Expires or a Cache-Control Header
-•	Gzip Components
-•	Put Stylesheets at the Top
-•	Put Scripts at the Bottom
-•	Avoid CSS Expressions
-•	Make JavaScript and CSS External
-•	Reduce DNS Lookups
-•	Minify JavaScript and CSS
+•	Minimize HTTP Requests 
+•	Use a Content Delivery Network 
+•	Add an Expires or a Cache-Control Header 
+•	Gzip Components 
+•	Put Stylesheets at the Top 
+•	Put Scripts at the Bottom 
+•	Avoid CSS Expressions 
+•	Make JavaScript and CSS External 
+•	Reduce DNS Lookups 
+•	Minify JavaScript and CSS 
 •	Avoid Redirects
 •	Remove Duplicate Scripts
 •	Configure Etags
