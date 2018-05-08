@@ -1,12 +1,13 @@
 # Web Secutity
-## Some common ways that websites get infected are (ref [6])
+## 1.Some common ways that websites get infected are (ref [6])
 * Cross-site scripting attacks (XSS) 
 
 *	SQL injection attacks :	These attacks maliciously alter the backend databases of websites thus making them redirect users to malware sites.
 *	Search Engine result Redirection
 *	Attacks on backend virtual hosting companies
 *	Using social networking sites to infect users (these are a combination of social engineering and above attacks)
-##	users can get the malware planted by hackers in many ways
+
+## 2.users can get the malware planted by hackers in many ways
 
 *	By installing “fake codecs” embedded with Trojans. 
 *	By viewing “malicious advertisements”
@@ -16,14 +17,14 @@
 *	By visiting links posted on “Blog Sites” under “Blog Comments”
 *	By installing pirated software from warez sites which are maliciously modified by hackers.
 
-## Attack Categories:
+## 3.Attack Categories:
 * Authentication Attack: Brute force, insufficient authentication, weak password recovery validation,
 * Authorization Attacks: Credential / Session Prediction (Session Hijacking), CRSF
 * Client-side Attack: Browser and Plugin Vulnerabilities,XSS, clickjacking,
 * Injection Attacks: Search Worms, Js Hijacking, SQL injection,
 * Recent Attacks: Worms(Stuxent), Email Hack, Account Breaches(HeartBleed bug: allows stealing the information protected by SSL/TLS encryption), Distributed Denial-of-Service (DDoS) Attacks
 
-## important defination:
+## 4.important defination:
 * Credential/Session prediction is a method of hijacking or impersonating a web site user. 
 * Clickjacking’ is a method used by malicious individuals to trick users into clicking something without them knowing what theyve clicked.
 * SQL injection: attacks maliciously alter the backend databases of websites thus making them redirect users to malware sites
