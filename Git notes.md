@@ -22,10 +22,13 @@ Git区别于SCM（software change and configuration management system）在于�
       2)trees：directory
       3)blobs：content of datas
 ## 深入理解commit，branch和head
-    * commit： 每次commit都为创建三个快照
+    
+    * commit： 每次commit都为创建三个快照
     * branch：branch仅仅是指向一个commit的指针而已，指向一个commit，而一个commit同时指向其父commit，如此循环最终形成了一个branch
     * head：git有一个独立的HEAD指针，记录项目现在所在的位置，指向分支（指针）
-    ref：http://qingmo.me/2017/03/22/gitcommit/
+    
+    ref：http://qingmo.me/2017/03/22/gitcommit/
+    
 ## 常用代码：
 
 1.常见五步：
