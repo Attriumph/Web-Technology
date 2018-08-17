@@ -8,7 +8,7 @@ The documentElement is the top-level of the tree.
 This element has one or many childNodes that represent the branches of the tree.
 to be used with any programming language and any operating system
 
-W3C DOM 标准被分为 3 个不同的部分：
+## W3C DOM 标准被分为 3 个不同的部分：
 
 核心 DOM - 针对任何结构化文档的标准模型
 XML DOM - 针对 XML 文档的标准模型
