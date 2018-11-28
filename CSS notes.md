@@ -2,17 +2,7 @@
 (refer:http://cs-server.usc.edu:45678/lectures.html)
 
 ## Precedence of Style Settings
-层叠就是浏览器对多个样式来源进行叠加，最终确定结果的过程.
 
-css之所以有“层叠”的概念，是因为有多个样式来源。
-
-其中css样式来源有5个，分别是内联样式（<a style="">）,内部样式(<style></style>),外部样式（写在css文件中的样式），浏览器用户自定义样式，浏览器默认样式；
-
-按照其来源优先级为内联样式>内部样式>外部样式>浏览器用户自定义样式>浏览器默认样式
-
-按照选择器优先级为id >class>元素选择器
-
-如果有important,important优先级最高。
 
 
 ## DOCTYPE的引入
